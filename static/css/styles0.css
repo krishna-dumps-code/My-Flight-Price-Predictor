@@ -1,0 +1,15 @@
+body {
+    background-image: url("flight3.jpg");
+    text-align: left;
+}
+
+.jumbotron {
+    color: #2e0436;
+    background: #53679ece
+    text-align: left;
+}
+
+.card{
+    background-color: rgba(41, 3, 3, 0.548);
+    opacity: 1;
+}
